@@ -12,6 +12,6 @@
     <Host Name="Document"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://YOUR-GITHUB-PAGES-URL/taskpane/index.html"/>
+    <SourceLocation DefaultValue="https://3xthreatt.github.io/SegAttest/taskpane/index.html"/>
   </DefaultSettings>
 </OfficeApp>
